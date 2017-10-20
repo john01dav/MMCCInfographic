@@ -1,0 +1,47 @@
+body{
+  font-family: 'Armata', sans-serif;
+}
+#main-wrapper{
+  width: 756px;
+}
+p{
+  font-size: 13px;
+}
+#main-title-wrapper{
+  text-align: center;
+  color: white;
+  margin: 0px;
+  border-radius: 0px;
+  border-bottom: 3px solid silver;
+}
+.main-paragraph{
+  margin: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+h1{
+  margin: 21px 21px 21px 21px;
+}
+.feature-box{
+  text-align: center;
+}
+.feature-icon{
+  display: inline-block;
+  height: 75px;
+}
+.feature-title{
+  font-size: 26px;
+  line-height: 75px;
+  height: 75px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
+}
+.feature-border{
+  margin: 2px;
+  margin-bottom: 4px;
+}
+.feature-blurb{
+  text-align: justify;
+  text-justify: inter-word;
+}
